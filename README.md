@@ -23,4 +23,4 @@ I :
 <hr>
 
 <h2>My skills:</h2>
-<img src="<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/heroku.svg" />" alt="heroku">
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/heroku.svg" />
