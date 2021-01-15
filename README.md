@@ -8,7 +8,7 @@ I :
 - :clapper: Work with clients, create web-apps for order and have unique way to co-operate with teamates and utilizers
 
 <hr>
-## GitHub Stats
+<h2>GitHub Stats</h2>
 
 ![Ulugbek Muslitdinov's GitHub stats](https://github-readme-stats.vercel.app/api?username=UlugbekMuslitdinov&show_icons=&private_count=true)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UlugbekMuslitdinov&layout=compact)]()
