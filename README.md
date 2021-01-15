@@ -14,6 +14,8 @@ I :
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UlugbekMuslitdinov&layout=compact)]()
 
 <hr>
-# To contact me:
-- Email me to [ulugbekmuslitdinov@gmail.com](mailto:ulugbekmuslitdinov@gmail.com)
-- Type on <a href="https://t.me/umuslitdinov_29/">Telegram</a>
+<h1>To contact me:</h1>
+<ul>
+ <li>Email me to <a href="mailto:ulugbekmuslitdinov@gmail.com">ulugbekmuslitdinov@gmail.com</a></li>
+  <li>Type on <a href="https://t.me/umuslitdinov_29/">Telegram</a></li>
+</ul>
