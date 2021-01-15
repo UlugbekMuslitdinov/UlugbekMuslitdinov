@@ -23,12 +23,4 @@ I :
 <hr>
 
 <h2>My skills:</h2>
-<img src="./img/django.svg" alt="django" style="width: 30px;">
-<img src="./img/python.svg" alt="python" style="width: 30px;">
-<img src="./img/docker.svg" alt="docker" style="width: 30px;">
-<img src="./img/git.svg" alt="git" style="width: 30px;">
-<img src="./img/github.svg" alt="GitHub" style="width: 30px;">
-<img src="./img/heroku.svg" alt="heroku" style="width: 30px;">
-<img src="./img/css3.svg" alt="css" style="width: 30px;">
-<img src="./img/html5.svg" alt="html5" style="width: 30px;">
-<img src="./img/javascript.svg" alt="javascript" style="width: 30px;">
+<img src="<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/heroku.svg" />" alt="heroku">
