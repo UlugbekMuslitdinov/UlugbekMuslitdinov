@@ -17,6 +17,7 @@ I :
 [![Ulugbek Muslitdinov's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=UlugbekMuslitdinov&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
+<h1>Popular repos:</h1>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=UlugbekMuslitdinov&repo=exizmat&show_owner=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=UlugbekMuslitdinov&repo=UlugbekMuslitdinov&show_owner=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
