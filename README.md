@@ -16,4 +16,4 @@ I :
 <hr>
 # To contact me:
 - Email me to [ulugbekmuslitdinov@gmail.com](mailto:ulugbekmuslitdinov@gmail.com)
-- Type on [Telegram](https://t.me/umuslitdinov_29)
+- Type on <a href="https://t.me/umuslitdinov_29/">Telegram</a>
