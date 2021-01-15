@@ -13,7 +13,7 @@ I :
 <h2>GitHub Stats</h2>
 
 ![Ulugbek Muslitdinov's GitHub stats](https://github-readme-stats.vercel.app/api?username=UlugbekMuslitdinov&show_icons=&private_count=true&theme=algolia)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UlugbekMuslitdinov&layout=compact)]()
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UlugbekMuslitdinov&theme=algolia)]()
 
 <hr>
 <h1>To contact me:</h1>
