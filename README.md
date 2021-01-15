@@ -14,7 +14,7 @@ I :
 
 ![Ulugbek Muslitdinov's GitHub stats](https://github-readme-stats.vercel.app/api?username=UlugbekMuslitdinov&show_icons=&private_count=true&theme=algolia)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UlugbekMuslitdinov&theme=algolia)]()
-[![Ulugbek Muslitdinov's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ulugbekmuslitdinov&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Ulugbek Muslitdinov's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=UlugbekMuslitdinov&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 <h1>To contact me:</h1>
@@ -23,5 +23,4 @@ I :
   <li>Type on <a href="https://t.me/umuslitdinov_29/">Telegram</a></li>
 </ul>
 <hr>
-
 
