@@ -23,5 +23,8 @@ I :
 <hr>
 
 <h2>My skills:</h2>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/django.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/heroku.svg" />
-- ![#430098](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/heroku.svg) `#f03c15`
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" />
