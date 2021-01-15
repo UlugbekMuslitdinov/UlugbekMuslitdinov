@@ -17,6 +17,10 @@ I :
 [![Ulugbek Muslitdinov's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=UlugbekMuslitdinov&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=UlugbekMuslitdinov&repo=exizmat)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr>
 <h1>To contact me:</h1>
 <ul>
  <li>Email me to <a href="mailto:ulugbekmuslitdinov@gmail.com">ulugbekmuslitdinov@gmail.com</a></li>
