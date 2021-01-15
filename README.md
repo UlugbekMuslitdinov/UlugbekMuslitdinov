@@ -2,7 +2,7 @@
 
 
 I :
-- 💻 Can professionally work with Django framework
+- 💻 Can professionally code with Django framework
 - :blue_book: Work with Docker, Ubuntu terminal, Git, GitHub and other useful extensions
 - :newspaper: Have projects like online-shop, newsletter and etc.
 - :clapper: Work with clients, create web-apps for order and have unique way to co-operate with teamates and utilizers
