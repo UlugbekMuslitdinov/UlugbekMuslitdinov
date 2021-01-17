@@ -10,7 +10,7 @@ I :
 
 ## GitHub Stats
 
-![Ulugbek Muslitdinov's GitHub stats](https://github-readme-stats.vercel.app/api?username=UlugbekMuslitdinov&show_icons=&private_count=true)
+![Ulugbek's github stats](https://github-readme-stats.vercel.app/api?username=UlugbekMuslitdinov&show_icons=true)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UlugbekMuslitdinov)]()
 [![Ulugbek Muslitdinov's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=UlugbekMuslitdinov)](https://github.com/anuraghazra/github-readme-stats)
 
