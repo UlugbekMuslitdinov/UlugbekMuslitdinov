@@ -20,7 +20,8 @@ I :
 <h1>Popular repos:</h1>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=UlugbekMuslitdinov&repo=exizmat&show_owner=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=UlugbekMuslitdinov&repo=UlugbekMuslitdinov&show_owner=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="(https://github-readme-stats.vercel.app/api/pin/?username=UlugbekMuslitdinov&repo=UlugbekMuslitdinov&show_owner=true&theme=algolia" /></a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="(https://github-readme-stats.vercel.app/api/pin/?username=UlugbekMuslitdinov&repo=UlugbekMuslitdinov&show_owner=true&theme=algolia"></a>
 
 
 
