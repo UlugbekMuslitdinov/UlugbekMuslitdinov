@@ -7,10 +7,8 @@ I :
 - :newspaper: Have projects like online-shop, newsletter and etc.
 - :clapper: Work with clients, create web-apps for order and have unique way to co-operate with teamates and utilizers
 
-<hr>
 
-
-<h2>GitHub Stats</h2>
+## GitHub Stats
 
 ![Ulugbek Muslitdinov's GitHub stats](https://github-readme-stats.vercel.app/api?username=UlugbekMuslitdinov&show_icons=&private_count=true&theme=algolia)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UlugbekMuslitdinov&theme=algolia)]()
@@ -18,10 +16,10 @@ I :
 
 <hr>
 <h1>Popular repos:</h1>
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=UlugbekMuslitdinov&repo=exizmat&show_owner=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=UlugbekMuslitdinov&repo=UlugbekMuslitdinov&show_owner=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="(https://github-readme-stats.vercel.app/api/pin/?username=UlugbekMuslitdinov&repo=UlugbekMuslitdinov&show_owner=true&theme=algolia"></a>
 
 
 
