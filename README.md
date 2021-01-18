@@ -12,7 +12,7 @@ I :
 
 ![Ulugbek's github stats](https://github-readme-stats.vercel.app/api?username=UlugbekMuslitdinov&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UlugbekMuslitdinov&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Ulugbek Muslitdinov's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=UlugbekMuslitdinov)](https://github.com/anuraghazra/github-readme-stats)
+[![Ulugbek Muslitdinov's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lugbekMuslitdinov)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 <h1>Popular repos:</h1>
