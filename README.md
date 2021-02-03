@@ -8,8 +8,9 @@ I :
 - :clapper: Work with clients, create web-apps for order and have unique way to co-operate with teamates and utilizers
 
 [![Visits Badge](https://badges.pufler.dev/visits/UlugbekMuslitdinov/UlugbekMuslitdinov)](#)
+[Visits Badge](https://badges.pufler.dev/visits/UlugbekMuslitdinov/UlugbekMuslitdinov)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ulugbek-muslitdinov-5b48a51b7/)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat)](https://codepen.io/ulugbekmuslitdinov)
+[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://codepen.io/ulugbekmuslitdinov)
 
 
 ## 💼 Skills
