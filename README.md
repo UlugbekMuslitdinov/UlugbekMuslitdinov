@@ -13,7 +13,7 @@ I am not planning to stop at this point, this is just a milestone but not the de
 
 - 🌱 I’m currently learning Python 
 - 📫 How to reach me: ulugbekmuslitdinov@gmail.com 
-- Now am working on [Awesome Sources](https://github.com/UlugbekMuslitdinov/awesome-sources) project.
+- :four_leaf_clover: Currently I am working on [Awesome Sources](https://github.com/UlugbekMuslitdinov/awesome-sources) project.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/UlugbekMuslitdinov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/muslitdinovulugbek/)  
