@@ -23,5 +23,5 @@ I am not planning to stop at this point, this is just a milestone but not the de
 <details>
 <summary>My Languages Stats</summary>
 ![Codersrank.io](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=ulugbekmuslitdinov)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UlugbekMuslitdinov)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UlugbekMuslitdinov)](https://github.com/anuraghazra/github-readme-stats)
 </details>
