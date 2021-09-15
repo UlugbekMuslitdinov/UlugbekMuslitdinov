@@ -2,7 +2,7 @@
 #### I am backend developer on Python(Django)
 ![I am backend developer on Python(Django)](https://github.com/UlugbekMuslitdinov/UlugbekMuslitdinov/blob/main/img/Ulugbek%20Muslitdinov.png)
 
-I am a freshman in Python, but today I have a bunch of useful skills in coding. There are some of them:
+I am a middle in Python and for today I have a bunch of useful skills in coding. There are some of them:
 - Python (Django framework)
 - Git/GitHub/GitLab
 - Docker/Docker-compose
