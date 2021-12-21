@@ -1,6 +1,6 @@
 ### I am Middle Python developer
-#### I am backend developer on Python(Django)
-![I am backend developer on Python(Django)](https://github.com/UlugbekMuslitdinov/UlugbekMuslitdinov/blob/main/img/Ulugbek%20Muslitdinov.png)
+#### I am middle backend developer on Python(Django)
+![I am backend developer on Python(Django)](https://github.com/UlugbekMuslitdinov/UlugbekMuslitdinov/blob/main/img/poster.png)
 
 I am a middle in Python and for today I have a bunch of useful skills in coding. There are some of them:
 - Python (Django framework)
