@@ -26,7 +26,7 @@ I am not planning to stop at this point, this is just a milestone but not the de
 ![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=2496ed)
  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=UlugbekMuslitdinov&show_icons=true) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=UlugbekMuslitdinov)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=UlugbekMuslitdinov&show_icons=true&count_private=true) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=UlugbekMuslitdinov)  
 
 ### Follow Me
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/UlugbekMuslitdinov/)
