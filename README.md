@@ -24,15 +24,14 @@ I am not planning to stop at this point, this is just a milestone but not the de
 ![Heroku](https://img.shields.io/badge/Heroku-black?style=for-the-badge&logo=heroku&logoColor=3c2f63)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=326790)
 ![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=2496ed)
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/UlugbekMuslitdinov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/muslitdinovulugbek/)  
+ 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=UlugbekMuslitdinov&show_icons=true) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=UlugbekMuslitdinov)  
 
-<details>
-<summary>My Languages Stats</summary>
-
-![Codersrank.io](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=ulugbekmuslitdinov)
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UlugbekMuslitdinov)](https://github.com/anuraghazra/github-readme-stats)
-</details>
+### Follow Me
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/UlugbekMuslitdinov/)
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=6041b2)](https://www.instagram.com/muslitdinovulugbek/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/ulugbekmuslitdinov/)
+[![Reddit](https://img.shields.io/badge/Reddit-black?style=for-the-badge&logo=reddit&logoColor=ff4500)](https://www.reddit.com/user/UlugbekMuslitdinov)
+[![StackOverFlow](https://img.shields.io/badge/stackoverflow-black?style=for-the-badge&logo=stackoverflow&logoColor=f48024)](https://stackoverflow.com/users/14942231/ulugbek)
+[![DevTo](https://img.shields.io/badge/dev.to-black?style=for-the-badge&logo=dev.to&logoColor=fff)](https://dev.to/ulugbekmuslitdinov)
