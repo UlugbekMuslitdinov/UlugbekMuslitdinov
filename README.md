@@ -15,6 +15,9 @@ I am not planning to stop at this point, this is just a milestone but not the de
 - 📫 How to reach me: ulugbekmuslitdinov@gmail.com 
 - :four_leaf_clover: Currently I am working on [Awesome Sources](https://github.com/UlugbekMuslitdinov/awesome-sources) project.
 
+### :speech_balloon: My recent blog articles:
+- Storing Django Secrets in .env File
+
 ### My programming languages and frameworks
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=3b83bd)
 ![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&logoColor=0f3f2f)
