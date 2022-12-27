@@ -1,17 +1,11 @@
-### I am Middle Python developer
-#### I am middle backend developer on Python(Django)
-![I am backend developer on Python(Django)](https://github.com/UlugbekMuslitdinov/UlugbekMuslitdinov/blob/main/img/poster.png)
-
-I am a middle in Python and for today I have a bunch of useful skills in coding. There are some of them:
-- Python (Django framework)
-- Git/GitHub/GitLab
-- Docker/Docker-compose
-- HTML/CSS
-- and some additional skills like Linux, PostgreSQL and Heroku.
+### HI, I am Ulugbek
+![Visits](https://komarev.com/ghpvc/?username=UlugbekMuslitdinov)
+#### I am international student @UofArizona. Majoring Computer Science
+#### I currently work on campus as Web Developer
 
 I am not planning to stop at this point, this is just a milestone but not the destination
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me: ulugbekmuslitdinov@gmail.com 
 - :four_leaf_clover: Currently I am working on [Awesome Sources](https://github.com/UlugbekMuslitdinov/awesome-sources) project.
 
@@ -21,9 +15,11 @@ I am not planning to stop at this point, this is just a milestone but not the de
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=f3cb37)
 ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5&logoColor=e44d25)
 ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3&logoColor=264de4)
-![Heroku](https://img.shields.io/badge/Heroku-black?style=for-the-badge&logo=heroku&logoColor=3c2f63)
+![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=PHP&logoColor=9196c3)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=326790)
+![MySQL](https://img.shields.io/badge/MYSQL-black?style=for-the-badge&logo=mysql&logoColor=015b85)
 ![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=2496ed)
+![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=f16455)
  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=UlugbekMuslitdinov&show_icons=true&count_private=true) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=UlugbekMuslitdinov)  
