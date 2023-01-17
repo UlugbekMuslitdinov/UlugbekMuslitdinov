@@ -9,7 +9,24 @@ I am not planning to stop at this point, this is just a milestone but not the de
 - 📫 How to reach me: ulugbekmuslitdinov@gmail.com 
 - :four_leaf_clover: Currently I am working on [Awesome Sources](https://github.com/UlugbekMuslitdinov/awesome-sources) project.
 
-### My programming languages and frameworks
+### My skills:
+- Python
+  - Django
+- Java
+  - Desktop development
+- C++
+- JavaScript
+- HTML
+- CSS
+- PHP
+- Docker
+- Git
+  - GitHub
+- SQL
+  - PostgreSQL
+  - MySQL
+
+<!-- ### My programming languages and frameworks
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=3b83bd)
 ![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&logoColor=0f3f2f)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=f3cb37)
@@ -19,7 +36,7 @@ I am not planning to stop at this point, this is just a milestone but not the de
 ![Postgres](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=326790)
 ![MySQL](https://img.shields.io/badge/MYSQL-black?style=for-the-badge&logo=mysql&logoColor=015b85)
 ![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=2496ed)
-![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=f16455)
+![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=f16455) -->
  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=UlugbekMuslitdinov&show_icons=true&count_private=true) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=UlugbekMuslitdinov)  
