@@ -39,9 +39,13 @@ I am not planning to stop at this point, this is just a milestone but not the de
 ![MySQL](https://img.shields.io/badge/MYSQL-black?style=for-the-badge&logo=mysql&logoColor=015b85)
 ![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=2496ed)
 ![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=f16455) -->
- 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=UlugbekMuslitdinov&show_icons=true&count_private=true) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=UlugbekMuslitdinov)  
+<div align="center">  
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=UlugbekMuslitdinov&show_icons=true&count_private=true&hide_border=true&title_color=39FF14&text_color=c9d1d9&bg_color=0d1117" alt="Ulugbek Muslitdinov's github stats" />
+    <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlugbekMuslitdinov&layout=compact&hide_border=true&title_color=39FF14&text_color=ffffff&bg_color=0d1117" />
+</div>
+
+<div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=UlugbekMuslitdinov&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=ffffff" alt="Ulugbek Muslitdinov" /></div>
 
 ### Follow Me
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/UlugbekMuslitdinov/)
