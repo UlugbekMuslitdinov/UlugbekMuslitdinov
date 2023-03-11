@@ -1,4 +1,6 @@
-### HI, I am Ulugbek
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=24&duration=4000&pause=200&color=808080&width=435&lines=Hi%2C+I+am+Ulugbek;University+of+Arizona+Student;Software+Engineer;Web+Developer)](https://git.io/typing-svg)
+
+
 ![Visits](https://komarev.com/ghpvc/?username=UlugbekMuslitdinov)
 #### I am international student @UofArizona. Majoring Computer Science
 #### I currently work on campus as Web Developer
