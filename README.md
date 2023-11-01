@@ -18,10 +18,13 @@ I am not planning to stop at this point, this is just a milestone but not the de
   - Desktop development
 - C++
 - JavaScript
+  - React
 - HTML
 - CSS
 - PHP
 - Docker
+- Dart
+  - Flutter
 - Git
   - GitHub
 - SQL
