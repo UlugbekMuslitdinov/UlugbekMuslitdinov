@@ -12,24 +12,29 @@ I am not planning to stop at this point, this is just a milestone but not the de
 - :four_leaf_clover: Currently I am working on [Awesome Sources](https://github.com/UlugbekMuslitdinov/awesome-sources) project.
 
 ### My skills:
-- Python
-  - Django
-- Java
-  - Desktop development
-- C++
-- JavaScript
-  - React
-- HTML
-- CSS
-- PHP
-- Docker
-- Dart
-  - Flutter
-- Git
-  - GitHub
-- SQL
-  - PostgreSQL
-  - MySQL
+- <img width="25px" src="https://skillicons.dev/icons?i=python" /> Python
+  - <img width="25px" src="https://skillicons.dev/icons?i=django" /> Django
+- <img width="25px" src="https://skillicons.dev/icons?i=java" /> Java
+- <img width="25px" src="https://skillicons.dev/icons?i=cpp" /> C++
+- <img width="25px" src="https://skillicons.dev/icons?i=js" /> JavaScript
+  - <img width="25px" src="https://skillicons.dev/icons?i=nodejs" /> Node JS
+  - <img width="25px" src="https://skillicons.dev/icons?i=react" /> React
+  - <img width="25px" src="https://skillicons.dev/icons?i=nextjs" /> Next JS
+- <img width="25px" src="https://skillicons.dev/icons?i=html" /> HTML
+- <img width="25px" src="https://skillicons.dev/icons?i=css" /> CSS
+- <img width="25px" src="https://skillicons.dev/icons?i=php" /> PHP
+- <img width="25px" src="https://skillicons.dev/icons?i=docker" /> Docker
+- <img width="25px" src="https://skillicons.dev/icons?i=dart" /> Dart
+  - <img width="25px" src="https://skillicons.dev/icons?i=flutter" /> Flutter
+- <img width="25px" src="https://skillicons.dev/icons?i=git" /> Git
+  - <img width="25px" src="https://skillicons.dev/icons?i=github" /> GitHub
+- DB
+  - <img width="25px" src="https://skillicons.dev/icons?i=postgres" /> PostgreSQL
+  - <img width="25px" src="https://skillicons.dev/icons?i=mysql" /> MySQL
+  - <img width="25px" src="https://skillicons.dev/icons?i=mongo" /> MongoDB
+- <img width="25px" src="https://skillicons.dev/icons?i=kotlin" /> Kotlin 
+  - <img width="25px" src="https://skillicons.dev/icons?i=androidstudio" /> Android Development
+- <img width="25px" src="https://skillicons.dev/icons?i=aws" /> AWS (Certified Developer Associate) 
 
 <!-- ### My programming languages and frameworks
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=3b83bd)
