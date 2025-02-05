@@ -2,14 +2,13 @@
 
 
 ![Visits](https://komarev.com/ghpvc/?username=UlugbekMuslitdinov)
-#### I am international student @UofArizona. Majoring Computer Science
-#### I currently work on campus as Web Developer
+#### I am a student @UofArizona. Majoring Computer Science
+#### I currently work as a Software Developer at the University of Arizona Services
 
 I am not planning to stop at this point, this is just a milestone but not the destination
 
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Mobile Development
 - 📫 How to reach me: ulugbekmuslitdinov@gmail.com 
-- :four_leaf_clover: Currently I am working on [Awesome Sources](https://github.com/UlugbekMuslitdinov/awesome-sources) project.
 
 ### My skills:
 - <img width="25px" src="https://skillicons.dev/icons?i=python" /> Python
